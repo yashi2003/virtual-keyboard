@@ -9,3 +9,11 @@ The Virtual Keyboard promotes a new way of typing by recognizing hand gestures. 
   2. Virtual keyboard layout displayed on the screen
   3. Typing functionality by detecting specific hand gestures
   4. Customizable keyboard layout
+
+# requirements.txt
+python= 3.7 or above
+mediapipe=0.10 or above
+opencv-python=4.8 or above
+cvzone=1.4.1 or above
+
+"mynew is the virtual environment used"
